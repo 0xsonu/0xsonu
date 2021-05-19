@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/SonuKumar81800/SonuKumar81800">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=SonuKumar81800&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/covid19india-react.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=covid19india-react&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/SonuKumar81800/React-Practice.git">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/SonuKumar81800/B.tech-Practice-Session">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=B.tech-Practice-Session&theme=chartreuse-dark&show_owner=true" />
