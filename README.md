@@ -20,8 +20,8 @@
 <a href="https://github.com/SonuKumar81800/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SonuKumar81800&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
 </a>
-<a href="https://github.com/SonuKumar81800/SonuKumar81800">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=SonuKumar81800&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/SonuKumar81800/NodeJs_Practice">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=NodeJs_Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/SonuKumar81800/React-Practice.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
