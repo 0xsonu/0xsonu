@@ -5,7 +5,7 @@
 [<img height="30" src="https://img.shields.io/badge/Hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=hackerrank&logoColor=black" />][hackerrank]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-- My primary coding language: Javascript
+- My primary programming language: Javascript
 - Earned Gold badge & 5 star at HackerRank in Problem Solving, Java and 10 Days of Javascript.
 - Passionate for learning & exploring new Tech.
 - I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting their Techenical journey.
