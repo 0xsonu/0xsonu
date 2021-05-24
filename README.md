@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/FAVORITE_TEXT_EDITOR-VISUAL_STUDIO_CODE-informational?style=flat&logo=Xcode&logoColor=fffff&color=003366)
 ![](https://img.shields.io/badge/STYLESHEET_LANGUAGES-CSS-informational?style=flat&logo=CSS3&logoColor=fffff&color=003366)
 
-<!-- <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/SonuKumar81800/count.svg"/></h3> -->
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/SonuKumar81800/count.svg"/></h3>
 
 [twitter]: https://twitter.com/sonukum27391549
 [linkedin]: https://www.linkedin.com/in/sonukumar81800/
