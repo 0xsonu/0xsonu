@@ -15,6 +15,10 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=SonuKumar81800&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 <a href="https://github.com/SonuKumar81800/">
+  <img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?username=SonuKumar81800&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Sonu Kumar" />  
+  
+</a>
+<a href="https://github.com/SonuKumar81800/">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true"/>
 </a>
 <a href="https://github.com/SonuKumar81800/">
