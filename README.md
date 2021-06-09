@@ -36,6 +36,63 @@
 <a href="https://github.com/SonuKumar81800/WebD-club-project">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=WebD-club-project&theme=chartreuse-dark&show_owner=true" />
 </a>
+<br/>
+<br/>
+<h2 align='center'><i>Languages and Tools</i></h2>
+<table width='810px'>
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
+<br/>
 
 ![](https://img.shields.io/badge/PROGRAMMING_/_SCRIPTING_LANGUAGES-JavaScript,_Java,_C,_C++-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=003366)
 ![](https://img.shields.io/badge/MARKUP_LANGUAGES-HTML,_XML-informational?style=flat&logo=HTML5&logoColor=fffff&color=003366)
