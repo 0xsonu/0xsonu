@@ -1,5 +1,5 @@
-# Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar
-<!-- # Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="30px"> I am Sonu Kumar -->
+<!-- # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar -->
+# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="30px"> I am Sonu Kumar
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
