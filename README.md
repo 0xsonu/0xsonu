@@ -1,5 +1,5 @@
 <!-- # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar -->
-# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="30px"> I am Sonu Kumar
+# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
@@ -56,13 +56,13 @@
 <a href="https://github.com/SonuKumar81800/B.tech-Practice-Session">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=B.tech-Practice-Session&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/B.tech-Practice-Session">
+<a href="https://github.com/SonuKumar81800/Placement-prepration">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Placement-prepration&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/B.tech-Practice-Session">
+<a href="https://github.com/SonuKumar81800/Alumini-frontend">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Alumini-frontend&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/WebD-club-project">
+<a href="https://github.com/SonuKumar81800/Alumini-backend">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Alumini-backend&theme=chartreuse-dark&show_owner=true" />
 </a>
 <br/>
