@@ -17,13 +17,15 @@
 
 ![](https://img.shields.io/badge/CLOUD_TECHNOLOGIES-_AWS,_GOOGLE_CLOUD-informational?style=flat&logo=amazon&logoColor=f7df1e&color=003366)
 
-![](https://img.shields.io/badge/AWS_TOOLS-AppSync,_Cognito,_CodePipeline,_EC2,_Lambda,_SES,_SNS,_CloudFront,_CloudWatch,_Route_53,_CodeBuild-informational?style=flat&logo=amazon&logoColor=f7df1e&color=003366)
+![](https://img.shields.io/badge/AWS_TOOLS-AppSync,_Cognito,_CodePipeline,_EC2,_Lambda,_CodeBuild-informational?style=flat&logo=amazon&logoColor=f7df1e&color=003366)
 
 ![](https://img.shields.io/badge/MARKUP_LANGUAGES-HTML,_XML-informational?style=flat&logo=HTML5&logoColor=fffff&color=003366)
 
 ![](https://img.shields.io/badge/DATABASE-MONGODB,_SQL-informational?style=flat&logo=MongoDB&logoColor=47A248&color=003366)
 
 ![](https://img.shields.io/badge/OPERATING_SYSTEM-WINDOWS,_LINUX-informational?style=flat&logo=Linux&logoColor=fffff&color=003366)
+
+![](https://img.shields.io/badge/PLATEFORM_SUPPORT-ANDROID,_IOS,_WEB-informational?style=flat&logo=android&logoColor=fffff&color=003366)
 
 ![](https://img.shields.io/badge/FRAMEWORK-ReactJs,_NextJs,_NodeJs,_Express-informational?style=flat&logo=Node.js&logoColor=fffff&color=003366)
 
@@ -42,7 +44,7 @@
   
 </a>
 <a href="https://github.com/SonuKumar81800/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true&hide=css"/>
 </a>
 <a href="https://github.com/SonuKumar81800/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SonuKumar81800&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
@@ -53,17 +55,17 @@
 <a href="https://github.com/SonuKumar81800/React-Practice.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/B.tech-Practice-Session">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=B.tech-Practice-Session&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/SonuKumar81800/AWS_Backend">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=AWS_Backend&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/SonuKumar81800/Placement-prepration">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Placement-prepration&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/Alumini-frontend">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Alumini-frontend&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/SonuKumar81800/Reunite_Android">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Reunite_Android&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/Alumini-backend">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Alumini-backend&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/SonuKumar81800/VirtualClassroom">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=VirtualClassroom&theme=chartreuse-dark&show_owner=true" />
 </a>
 <br/>
 <br/>
