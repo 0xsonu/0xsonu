@@ -1,5 +1,5 @@
 <!-- # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar -->
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/sonuk.png" alt="TryHackMe"> -->
+
 
 # Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar 
 
@@ -39,9 +39,9 @@
 
 
 
-<html><script src="https://tryhackme.com/badge/1525880"></script></html>
+<img src="https://tryhackme-badges.s3.amazonaws.com/sonuk.png" alt="TryHackMe">
 <br/>
-<br/>
+
 
 <a href="https://github.com/SonuKumar81800/">
   <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuKumar81800&theme=chartreuse-dark&layout=compact" alt="Sonu Kumar" />  
