@@ -1,5 +1,9 @@
 <!-- # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar -->
-# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/sonuk.png" alt="TryHackMe"> -->
+
+# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar 
+
+
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
@@ -33,6 +37,10 @@
 
 ![](https://img.shields.io/badge/STYLESHEET_LANGUAGES-CSS,_SCSS-informational?style=flat&logo=CSS3&logoColor=fffff&color=003366)
 
+
+
+<html><script src="https://tryhackme.com/badge/1525880"></script></html>
+<br/>
 <br/>
 
 <a href="https://github.com/SonuKumar81800/">
