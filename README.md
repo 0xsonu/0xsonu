@@ -52,7 +52,7 @@
   
 </a>
 <a href="https://github.com/SonuKumar81800/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true&hide=css"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true&hide=css,html"/>
 </a>
 <a href="https://github.com/SonuKumar81800/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SonuKumar81800&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
