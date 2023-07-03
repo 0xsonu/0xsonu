@@ -1,7 +1,7 @@
-<!-- # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar -->
+# Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar 
 
 
-# Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar 
+<!-- # Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar -->
 
 
 
