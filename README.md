@@ -1,7 +1,7 @@
 # Hello, <img src="./wave.gif" width="30px"> I am Sonu Kumar 
 
 
-<!-- # Hello, <img src="https://raw.githubusercontent.com/SonuKumar81800/SonuKumar81800/main/wave.gif" width="20"> I am Sonu Kumar -->
+<!-- # Hello, <img src="https://raw.githubusercontent.com/0xsonu/0xsonu/main/wave.gif" width="20"> I am Sonu Kumar -->
 
 
 
@@ -43,37 +43,37 @@
 <br/>
 
 
-<a href="https://github.com/SonuKumar81800/">
-  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=SonuKumar81800&theme=chartreuse-dark&layout=compact" alt="Sonu Kumar" />  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=SonuKumar81800&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
+<a href="https://github.com/0xsonu/">
+  <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsonu&theme=chartreuse-dark&layout=compact" alt="Sonu Kumar" />  
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=0xsonu&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
-<a href="https://github.com/SonuKumar81800/">
-  <img align="center" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=SonuKumar81800&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Sonu Kumar" />  
+<a href="https://github.com/0xsonu/">
+  <img align="center" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=0xsonu&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Sonu Kumar" />  
   
 </a>
-<a href="https://github.com/SonuKumar81800/">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuKumar81800&theme=chartreuse-dark&langs_count=5&count_private=true&hide=css,html"/>
+<a href="https://github.com/0xsonu/">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsonu&theme=chartreuse-dark&langs_count=5&count_private=true&hide=css,html"/>
 </a>
-<a href="https://github.com/SonuKumar81800/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=SonuKumar81800&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40&rank_icon=percentile" />
+<a href="https://github.com/0xsonu/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=0xsonu&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40&rank_icon=percentile" />
 </a>
-<a href="https://github.com/SonuKumar81800/NodeJs_Practice">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=NodeJs_Practice&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/NodeJs_Practice">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=NodeJs_Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/React-Practice.git">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/React-Practice.git">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/AWS_Backend">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=AWS_Backend&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/AWS_Backend">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=AWS_Backend&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/Placement-prepration">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Placement-prepration&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/Placement-prepration">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=Placement-prepration&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/Reunite_Android">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=Reunite_Android&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/Reunite_Android">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=Reunite_Android&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/SonuKumar81800/VirtualClassroom">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SonuKumar81800&repo=VirtualClassroom&theme=chartreuse-dark&show_owner=true" />
+<a href="https://github.com/0xsonu/VirtualClassroom">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=VirtualClassroom&theme=chartreuse-dark&show_owner=true" />
 </a>
 <br/>
 <br/>
@@ -151,11 +151,11 @@
 
 ![](https://img.shields.io/badge/STYLESHEET_LANGUAGES-CSS,_SCSS-informational?style=flat&logo=CSS3&logoColor=fffff&color=003366)
 
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/SonuKumar81800/count.svg"/></h3> -->
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/0xsonu/count.svg"/></h3> -->
 
-[twitter]: https://twitter.com/sonukum27391549
-[linkedin]: https://www.linkedin.com/in/sonukumar81800/
-[facebook]: https://www.facebook.com/kumar.sonusingh.37454/
+[twitter]: https://twitter.com/sonuk08
+[linkedin]: https://www.linkedin.com/in/0xsonu/
+[facebook]: https://www.facebook.com/0xsonu/
 [hackerrank]: https://www.hackerrank.com/sonu_kumar_08
 [leetcode]: https://leetcode.com/netscape/
 
