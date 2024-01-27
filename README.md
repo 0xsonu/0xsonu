@@ -3,6 +3,7 @@
 
 <!-- # Hello, <img src="https://raw.githubusercontent.com/0xsonu/0xsonu/main/wave.gif" width="20"> I am Sonu Kumar -->
 
+ I'm Sonu Kumar. I've completed my graduation in Information Technology from Guru Ghasidas University. I believe my fast learning abilities, commitment to succeed, and relevant studies make me the perfect fit for Industry roles. Good working knowledge of Full Stack Development, Strong technical skills, passionate to learn cyber security, and proficiency with current MERN Stack. Well-organized, and able to handle a fast-paced work environment and interact in a courteous, helpful, and professional manner. I'm a self-motivated Developer. I found my interest in Cyber Security and Web Development and started contributing on Github through projects. I never give up when it comes to finding a solution to a problem, hence willing to work in a challenging environment.
 
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -56,25 +57,25 @@
 </a>
 <a href="https://github.com/0xsonu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=0xsonu&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40&rank_icon=percentile" />
-</a>
+<!-- </a>
 <a href="https://github.com/0xsonu/NodeJs_Practice">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=NodeJs_Practice&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/0xsonu/React-Practice.git">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=React-Practice&theme=chartreuse-dark&show_owner=true" />
-</a>
+</a> -->
 <a href="https://github.com/0xsonu/AWS_Backend">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=AWS_Backend&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/0xsonu/Placement-prepration">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=Placement-prepration&theme=chartreuse-dark&show_owner=true" />
 </a>
-<a href="https://github.com/0xsonu/Reunite_Android">
+<!-- <a href="https://github.com/0xsonu/Reunite_Android">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=Reunite_Android&theme=chartreuse-dark&show_owner=true" />
 </a>
 <a href="https://github.com/0xsonu/VirtualClassroom">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xsonu&repo=VirtualClassroom&theme=chartreuse-dark&show_owner=true" />
-</a>
+</a> -->
 <br/>
 <br/>
 <!-- <h2 align='center'><i>Languages and Tools</i></h2> -->
@@ -133,23 +134,6 @@
 </table> -->
 <!-- <br/>
 
-![](https://img.shields.io/badge/PROGRAMMING_/_SCRIPTING_LANGUAGES-JavaScript,TypeScript,_Java,_C,_C++-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=003366)
-
-![](https://img.shields.io/badge/CLOUD_TECHNOLOGIES-_AWS,_GOOGLE_CLOUD-informational?style=flat&logo=amazon&logoColor=f7df1e&color=003366)
-
-![](https://img.shields.io/badge/AWS_TOOLS-AppSync,_Cognito,_CodePipeline,_EC2,_Lambda,_SES,_SNS,_CloudFront,_CloudWatch,_Route_53,_CodeBuild-informational?style=flat&logo=amazon&logoColor=f7df1e&color=003366)
-
-![](https://img.shields.io/badge/MARKUP_LANGUAGES-HTML,_XML-informational?style=flat&logo=HTML5&logoColor=fffff&color=003366)
-
-![](https://img.shields.io/badge/DATABASE-MONGODB,_SQL-informational?style=flat&logo=MongoDB&logoColor=47A248&color=003366)
-
-![](https://img.shields.io/badge/OPERATING_SYSTEM-WINDOWS,_LINUX-informational?style=flat&logo=Linux&logoColor=fffff&color=003366)
-
-![](https://img.shields.io/badge/FRAMEWORK-ReactJs,_NextJs,_NodeJs,_Express-informational?style=flat&logo=Node.js&logoColor=fffff&color=003366)
-
-![](https://img.shields.io/badge/FAVORITE_TEXT_EDITOR-VISUAL_STUDIO_CODE,_IntelliJ_IDEA-informational?style=flat&logo=xcode&logoColor=fffff&color=003366)
-
-![](https://img.shields.io/badge/STYLESHEET_LANGUAGES-CSS,_SCSS-informational?style=flat&logo=CSS3&logoColor=fffff&color=003366)
 
 <h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/0xsonu/count.svg"/></h3> -->
 
